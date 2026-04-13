@@ -17,7 +17,7 @@ Aquesta activitat permet entendre que, abans d’implementar solucions tècnique
 
 ### 📄 Solució de l'activitat
 
-**Document complet:** [Aquí](/Tasca_01/solucio.md)
+**Document complet:** [Aquí](/Tasca01/solucio.md)
 
 ---
 
