@@ -15,3 +15,4 @@ Aquesta dinàmica permet desenvolupar competències essencials en el món labora
 
 ## Evidència statcounter
 
+![Cap1](/Tasca08/img/statcounter.png)
