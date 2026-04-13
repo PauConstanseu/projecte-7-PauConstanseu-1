@@ -16,10 +16,10 @@ Aquesta activitat posa de manifest que la seguretat no depèn únicament de la t
 
 ### 📄 Solució de l'activitat
 
-**Guió vídeo 1:** [Aquí](/Tasca_05/guio1.md)
-**Guió vídeo 2:** [Aquí](/Tasca_05/guio2.md)
-**Vídeo 1:** [Aquí](/Tasca_05/vídeo1.md)
-**Vídeo 2:** [Aquí](/Tasca_05/vídeo2.md)
+**Guió vídeo 1:** [Aquí](/Tasca05/guio1.md)
+**Guió vídeo 2:** [Aquí](/Tasca05/guio2.md)
+**Vídeo 1:** [Aquí](/Tasca05/vídeo1.md)
+**Vídeo 2:** [Aquí](/Tasca05/vídeo2.md)
 
 ---
 
