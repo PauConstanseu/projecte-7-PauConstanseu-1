@@ -16,9 +16,3 @@ Aquesta dinàmica permet desenvolupar competències essencials en el món labora
 ## Evidència statcounter
 
 ![Cap1](/Tasca02/img/statcounter.png)
-
-Departaments:
-
-- 📊 Administracio  
-- 🚚 Transport  
-- 👔 Direccio  
