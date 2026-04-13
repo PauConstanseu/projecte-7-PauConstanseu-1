@@ -12,3 +12,6 @@ Per això, aquesta fase té com a objectiu unir criteris, idees i habilitats per
 Aquesta dinàmica permet desenvolupar competències essencials en el món laboral real, com la col·laboració, la creativitat i la presa de decisions compartida. El resultat d’aquesta tasca serà un document que inclourà tant les reflexions individuals com un informe breu del procés de negociació i la justificació de la proposta final seleccionada. 📄✨
 
 # Enllaç a la pàgina web: [Clica aquí](https://pauconstanseu.github.io/web-corporativa)
+
+## Evidència statcounter
+
