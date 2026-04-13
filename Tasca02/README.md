@@ -1,43 +1,21 @@
-# 📦 Infraestructura de Fitxers Segura — FoodLogistic
+# 🚀 Introducció a la Fase de Treball en Equip
 
-## 🏢 Projecte d'Implementació de Servidor de Fitxers amb Control d'Accés i Emmagatzematge
+Aquesta activitat marca una de les etapes més importants del projecte, ja que simula el funcionament real d’una empresa de serveis informàtics. Fins ara, cada membre de l’equip ha creat de manera individual una proposta de pàgina web per al client **FoodLogístic S.A.**. Però el client no vol múltiples opcions: vol una **solució única, professional i consensuada**. ✅
 
----
+Per això, aquesta fase té com a objectiu unir criteris, idees i habilitats per elaborar la proposta final. A través d’un procés estructurat de treball col·laboratiu, l’equip:
 
-## 📖 Introducció
+- 🧠 **Reflexiona individualment** sobre els punts forts i febles del propi disseny.
+- 💬 **Comparteix i debat** les diferents propostes amb comunicació assertiva.
+- 🤝 **Negocia i arriba a un consens** per definir la solució final.
+- 🎨 Pot fins i tot **fusionar elements** de diverses webs per crear la versió perfecta per al client.
 
-En una empresa en creixement com **FoodLogistic**, l'augment del volum d'activitat implica inevitablement un augment del volum de dades. Quan aquesta informació no està correctament organitzada, es produeixen problemes com:
+Aquesta dinàmica permet desenvolupar competències essencials en el món laboral real, com la col·laboració, la creativitat i la presa de decisions compartida. El resultat d’aquesta tasca serà un document que inclourà tant les reflexions individuals com un informe breu del procés de negociació i la justificació de la proposta final seleccionada. 📄✨
 
-- 📂 Informació duplicada  
-- 🔒 Dificultat per controlar l'accés als fitxers  
-- ⚠️ Pèrdua de visió global de l'organització  
-- 💾 Saturació d'espai d'emmagatzematge  
+# Enllaç a la pàgina web: [Clica aquí](https://pauconstanseu.github.io/web-corporativa)
 
-Fins ara, cada departament de **FoodLogistic** gestionava la seva documentació localment, fet que provocava una manca d'organització i seguretat en la gestió dels fitxers.
+## Evidència statcounter
 
-Per solucionar aquesta situació, s'ha plantejat la implementació d'una **infraestructura centralitzada de fitxers**, segura i eficient, basada en tecnologies de **Windows Server**.
-
----
-
-## 🎯 Objectiu del Projecte
-
-L'objectiu principal d'aquest projecte és dissenyar i implementar una **infraestructura de fitxers segura, organitzada i controlada**, utilitzant eines pròpies de **Windows Server**.
-
-Aquesta infraestructura inclou:
-
-- 🔐 Permisos NTFS i SMB  
-- 📁 Recursos compartits organitzats  
-- 📊 Quotes d'emmagatzematge  
-- 🚫 Filtratge de fitxers  
-- ⚙️ Administració amb diferents eines  
-
-Aquest projecte simula una implementació real en entorn empresarial.
-
----
-
-## 🧱 Domini utilitzat
-
-Domini: **foodlogistic.test**
+![Cap1](/Tasca02/img/statcounter.png)
 
 Departaments:
 
