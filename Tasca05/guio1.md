@@ -1,7 +1,7 @@
 # Vídeo 1: "Compliment legal en el dia a dia a FoodLogistic" (General)
 
-**Autors:** Pol Serrano i Pau Constanseu
-**Data:** 14/04/2026
+- **Autors:** Pol Serrano i Pau Constanseu
+- **Data:** 14/04/2026
 
 ### Guió:
 
