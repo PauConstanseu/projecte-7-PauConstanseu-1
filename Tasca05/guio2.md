@@ -1,7 +1,7 @@
 # Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)
 
-**Autors:** Pol Serrano i Pau Constanseu
-**Data:** 14/04/2026
+- **Autors:** Pol Serrano i Pau Constanseu
+- **Data:** 14/04/2026
 
 ### Guió:
 
