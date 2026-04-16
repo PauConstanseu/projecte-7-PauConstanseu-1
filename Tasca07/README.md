@@ -18,6 +18,8 @@ Finalment, s’ha presentat un **pressupost desglossat amb costos recurrents**, 
 
 **Dossier comparatiu i proposta:** [Aquí](https://docs.google.com/document/d/1omENQ6n7TeCc8CcLlvQvnNerQEz1qyDnRxe245-zBpU/edit?usp=sharing)
 
+**Presentació:** [Aquí](https://docs.google.com/presentation/d/1Oy3X2x45TxMNtWZkZcZWYiiRraI7pgQ-6C-Aooi3JMk/edit?usp=sharing)
+
 ---
 
 [Tornar enrere](./.)
