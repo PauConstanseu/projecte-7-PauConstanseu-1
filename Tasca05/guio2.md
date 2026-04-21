@@ -81,4 +81,20 @@ Aplicar aquestes bones pràctiques en el dia a dia ens permet evitar riscos i tr
 
 ---
 
+### Webgrafía
+
+Aquestes han sigut les webs que hem utilitzant i ens han ajudat per realitzar el guió del vídeo:
+
+1- https://www.setemcat.com/ventajas-cumplimiento-rgpd-lopd/
+
+2- https://elderecho.com/la-proteccion-de-datos-en-las-relaciones-laborales?_gl=1*wbpty5*_gcl_au*MTg2MzAyNzI2NC4xNzc2NzkwNTIy
+
+3- https://www.bizneo.com/blog/seguridad-en-recursos-humanos/
+
+4- https://www.viaempresa.cat/rgpd-proteccio-dades-internet_53757_102.html
+
+5- https://www.aedipecatalunya.com/es/codi-de-conducta/
+
+---
+
 [Tornar Enrere](/Tasca05/README.md)
