@@ -95,4 +95,20 @@ Aplicar aquestes mesures ens permet treballar de manera més segura, protegir l�
 
 ---
 
+### Webgrafía
+
+Aquestes han sigut les webs que hem utilitzant i ens han ajudat per realitzar el guió del vídeo:
+
+1- https://peradejordi.com/cultura-de-compliment-normatiu-la-base-duna-empresa-segura-legal-i-competitiva/
+
+2- https://qualitylegalservice.cat/
+
+3- https://www.aepd.es/derechos-y-deberes/cumplimiento-de-las-obligaciones
+
+4- https://forlopd.es/que-es-el-cumplimiento-normativo/
+
+5- https://www.setemcat.com/ventajas-cumplimiento-rgpd-lopd/
+
+---
+
 [Tornar Enrere](/Tasca05/README.md)
