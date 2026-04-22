@@ -114,31 +114,33 @@ Primer de tot desde la màquina client ens unirem al domini:
 
 * **Usuari u_trans:** Accés a Operacions i Public.
   
-![Vista u_trans](/Tasca03/img/17.png)
+![Vista u_trans](/Tasca03/img/29.png)
 
-![Accés Operacions](/Tasca03/img/23.png)
+![Accés Operacions](/Tasca03/img/30.png)
+
+Aqui podem veure que a la carpeta de direccion no tenim permis però en canvi amb els permisos que estan posats al grup de transport si que podriem accedir a les carpetes operacions i public.
 
 * **Usuari u_admin:** Comprovació que l'ABE amaga la resta de carpetes privades.
   
-![Vista u_admin](/Tasca03/img/18.png)
+![Vista u_admin](/Tasca03/img/20.png)
 
-![Error Accés Denegat](/Tasca03/img/image_b9e684.png)
+![Vistin](/Tasca03/img/21.png)
+
+![Vis_n](/Tasca03/img/22.png)
+
+![Vta u](/Tasca03/img/23.png)
 
 * **Usuari u_dir:** Verificació del mapatge de la unitat Z: i accés al recurs direccion.
   
-![Unitat Z u_dir](/Tasca03/img/image_bacea5.png)
+![Unitat Z u_dir](/Tasca03/img/24.png)
 
-![Accés Direccion](/Tasca03/img/image_ba74e9.png)
+![Accés Direccion](/Tasca03/img/25.png)
 
 ---
 
 ## 7. Estat Final dels Serveis
 
 Resum de les consoles de gestió confirmant l'estat òptim i la finalització de la configuració.
-
-![Estat Servidor 24](/Tasca03/img/24.png)
-
-![Estat Servidor 25](/Tasca03/img/25.png)
 
 ![Estat Servidor 26](/Tasca03/img/26.png)
 
