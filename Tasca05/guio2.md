@@ -1,7 +1,7 @@
 # Vídeo 2: "Protecció de dades a RRHH i Gestió" (Específic)
 
-- **Autors:** Pol Serrano i Pau Constanseu
-- **Data:** 14/04/2026
+**Autors:** Pol Serrano i Pau Constanseu
+**Data:** 14/04/2026
 
 ### Guió:
 
@@ -21,13 +21,19 @@ En aquest vídeo veurem com gestionar correctament aquestes dades en situacions 
 
 **(Pol)**
 
-Els currículums vitae són una de les fonts principals de dades personals a RRHH.
+Els currículums vitae són una de les fonts principals de dades personals a Recursos Humans.
 
-Quan recollim currículums, és obligatori informar els candidats sobre com es tractaran les seves dades. Això inclou la finalitat del tractament, el temps de conservació i els seus drets.
+Quan recollim currículums, ja sigui a través de correu electrònic, portals de feina o formularis web, és obligatori informar els candidats sobre com es tractaran les seves dades.
 
-Un cop finalitzat el procés de selecció, els currículums s’han de destruir. Només es poden conservar si el candidat ha donat el seu consentiment explícit per a futurs processos.
+Això inclou explicar clarament la finalitat del tractament, és a dir, per a què utilitzarem la seva informació, el temps de conservació i els drets que poden exercir en qualsevol moment.
 
-Aquesta pràctica garanteix el compliment de la normativa i evita conservar dades innecessàries.
+Per exemple, no és el mateix guardar un currículum per a un procés concret que conservar-lo per a futurs processos de selecció.
+
+Un cop finalitzat el procés de selecció, els currículums s’han de destruir de manera segura, evitant que puguin ser recuperats o consultats per persones no autoritzades.
+
+Només es poden conservar si el candidat ha donat el seu consentiment explícit per a futurs processos. Aquest consentiment ha de ser clar, informat i verificable.
+
+Aquesta pràctica garanteix el compliment de la normativa i evita conservar dades innecessàries, reduint també el risc de possibles filtracions o usos indeguts.
 
 ---
 
@@ -45,15 +51,20 @@ Això garanteix que les dades es gestionin correctament fora de l’empresa.
 
 **(Pol)**
 
-La confidencialitat és un principi bàsic en la protecció de dades.
+La confidencialitat és un principi bàsic en la protecció de dades i afecta totes les persones que treballen a l’organització, no només el departament de Recursos Humans.
 
-Totes les persones que treballen amb informació personal han de garantir que aquesta informació no es comparteixi amb persones no autoritzades.
+Totes les persones que treballen amb informació personal han de garantir que aquesta informació no es comparteixi amb persones no autoritzades, ni dins ni fora de l’empresa.
 
-A més, les dades només s’han d’utilitzar per a la finalitat per a la qual han estat recollides.
+Per exemple, no s’haurien de deixar documents amb dades personals a la vista, ni comentar informació sensible en espais públics o amb companys que no hi tenen accés.
 
-Per aquest motiu, és obligatori signar un compromís de confidencialitat. Aquest document estableix el deure de protegir la informació i les responsabilitats associades.
+A més, les dades només s’han d’utilitzar per a la finalitat per a la qual han estat recollides, evitant qualsevol ús indegut o innecessari.
 
-Respectar la confidencialitat és essencial per mantenir la confiança dins de l’organització.
+Per aquest motiu, és obligatori signar un compromís. Aquest document estableix el deure de protegir la informació i les responsabilitats associades en cas d’incompliment.
+
+També és recomanable rebre formació periòdica per recordar aquestes obligacions i mantenir bones pràctiques en el dia a dia.
+
+Respectar la confidencialitat és essencial per mantenir la confiança dins de l’organització i també amb els treballadors i candidats.
+
 
 ---
 
@@ -73,11 +84,18 @@ Una bona gestió d’aquests drets és clau per complir la normativa i garantir 
 
 **(Pol)**
 
-La protecció de dades a Recursos Humans no és només una obligació legal, sinó també una responsabilitat ètica.
+La protecció de dades a Recursos Humans no és només una obligació legal, sinó també una responsabilitat ètica que afecta la cultura de l’organització.
 
-Gestionar correctament la informació dels treballadors i candidats contribueix a crear un entorn de confiança i professionalitat.
+Gestionar correctament la informació dels treballadors i candidats contribueix a crear un entorn de confiança, respecte i professionalitat.
 
-Aplicar aquestes bones pràctiques en el dia a dia ens permet evitar riscos i treballar amb seguretat.
+A més, una bona gestió de les dades pot millorar la reputació de l’empresa i evitar sancions econòmiques o problemes legals.
+
+Aplicar aquestes bones pràctiques en el dia a dia ens permet evitar riscos, protegir la informació i treballar amb més seguretat.
+
+En definitiva, la protecció de dades és una tasca compartida que requereix el compromís de tots.
+
+Moltes gràcies per la vostra atenció.
+
 
 ---
 
@@ -94,7 +112,5 @@ Aquestes han sigut les webs que hem utilitzant i ens han ajudat per realitzar el
 4- https://www.viaempresa.cat/rgpd-proteccio-dades-internet_53757_102.html
 
 5- https://www.aedipecatalunya.com/es/codi-de-conducta/
-
----
 
 [Tornar Enrere](/Tasca05/README.md)
