@@ -157,7 +157,7 @@ Project starts 2026-04-07
 
 A la següent imatge podeu veure com ens a quedat finalment el diagrama de gantt que hem realitzat:
 
-[foto giagrama](/Tasca_09/img/diagramagantt.png)
+[foto diagrama](/Tasca09/img/diagramagantt.png)
 
 ---
 
