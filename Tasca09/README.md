@@ -1,5 +1,6 @@
 # 📅 **T09: Estimació temporal de projecte (Diagrama de Gantt professional)**  
 **Autor:** Pol Serrano Aromí i Pau Constanseu Ros
+
 **Data:** 20/04/2026  
 
 En aquesta activitat s’ha treballat la planificació temporal del projecte per a FoodLogistic S.A., amb l’objectiu de demostrar la capacitat de gestionar un projecte real de manera estructurada i professional. Més enllà de la implementació tècnica, s’ha posat el focus en la **gestió del temps, els recursos i les dependències entre tasques** 📊.
