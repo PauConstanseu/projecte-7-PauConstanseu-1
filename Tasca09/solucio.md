@@ -24,11 +24,9 @@
 
 T01 → T02 → T05
 
-T06 → T08 → T09
+T06 → T08
 
 T03 ↔ T04 (paral·lel després de T02)
-
-T07 → T10
 
 **Dependències clau**
 
@@ -39,10 +37,6 @@ T05 i T06 depenen de T02
 T08 depèn de T02 i T06
 
 T03 i T04 depenen de T02
-
-T09 depèn de T01
-
-T10 depèn de T07
 
 **Tasques en paral·lel**
 
@@ -85,20 +79,21 @@ Per què son tasques seqüencials i no tenen marge de retard, a part qualsevol r
 | T06   | 3h    | Adaptació legal          |
 | T07   | 4h    | Migració cloud           |
 | T08   | 3h    | Decisió final            |
-| T09   | 3h    | Planificació             |
-| T10   | 3h    | Pressupost               |
-| T11   | 4h    | Configuració Wordpress   |
-| T12   | 7h    | Recerca d'informació     |
 
 ### 3.2 Factors tinguts en compte
 
 El que hem tingut amb compte a sigut:
 
 1- Temps d’anàlisi
+
 2- Implementació tècnica
+
 3- Errors i proves
+
 4- Documentació
+
 5- Coordinació
+
 6- Imprevistos
 
 ---
@@ -115,51 +110,78 @@ El que hem tingut amb compte a sigut:
 | T06   | Act. indivi.| Act. indivi.|
 | T07   | Responsable | Suport      |
 | T08   | Act. indivi.| Act. indivi.|
-| T09   | Responsable | Suport      |
-| T10   | Suport      | Responsable |
-| T11   | Act. indivi.| Act. indivi.|
-| T12   | Act. indivi.| Act. indivi.|
 
 ---
 
 ## 5. Fase 4: Construcció del diagrama de Gantt =
 
-bash
+```bash
 
 @startgantt
 Project starts 2026-04-07
 
-[T01 - Anàlisi] lasts 2 days
-[T02 - Web] lasts 3 days
-[T03 - Fitxers] lasts 2 days
-[T04 - Impressió] lasts 2 days
-[T05 - LOPD] lasts 1 days
-[T06 - Legal] lasts 2 days
-[T07 - Cloud] lasts 2 days
-[T08 - Web final] lasts 1 days
-[T09 - Gantt] lasts 3 days
-[T10 - Pressupost] lasts 2 days
-[T11 - WordPress]
-[T12 - StartUP]
+[Recerca i anàlisi] as [T01] starts 2026-04-07 and ends 2026-04-07
+[Disseny web] as [T02] starts 2026-04-07 and ends 2026-04-10
+[Creació vídeo] as [T05] starts 2026-04-13 and ends 2026-04-14
 
-T02 starts after T01
-T03 starts after T02
-T04 starts after T02
-T05 starts after T02
-T06 starts after T02
-T08 starts after T06
-T09 starts after T01
-T10 starts after T07
+[T02] starts at [T01]'s end
+[T05] starts at [T02]'s end
+
+[Configuració servidor] as [T03] starts 2026-04-08 and ends 2026-04-09
+[Configuració impressió] as [T04] starts 2026-04-10 and ends 2026-04-10
+
+[T03] starts at [T02]'s start
+[T04] starts at [T03]'s end
+
+[Migració cloud] as [T07] starts 2026-04-09 and ends 2026-04-09
+
+[Adaptació legal] as [T06] starts 2026-04-21 and ends 2026-04-21
+[Decisió final] as [T08] starts 2026-04-27 and ends 2026-04-28
+
+[T08] starts at [T06]'s end
+
+[T01] is colored in LightBlue/Blue
+[T02] is colored in LightBlue/Blue
+[T05] is colored in LightBlue/Blue
+
+[T03] is colored in LightGreen/Green
+[T04] is colored in LightGreen/Green
+[T07] is colored in LightGreen/Green
+
+[T06] is colored in Orange/Red
+[T08] is colored in Orange/Red
 
 @endgantt
 
+```
 
+A la següent imatge podeu veure com ens a quedat finalment el diagrama de gantt que hem realitzat:
 
+[foto giagrama](/Tasca_09/img/diagramagantt.png)
 
 ---
 
 ## 6. Fase 5: Pla de contingència =
 
+### 6.1 Taula de riscos
+
+| Risc | Part afectada | Impacte | Pla de contingència |
+|------|--------------|--------|---------------------|
+| Problemes en la configuració del servidor (T03) | Infraestructura | Retard en tasques dependents | 1. Afegir temps extra de proves i marge en la planificació.<br>2. Repartir la tasca entre els dos membres per resoldre errors més ràpid. |
+| Errors en la web o en l’adaptació legal (T02 / T06) | Web client | Pot impedir publicar la web final | 1. Fer una revisió conjunta abans de donar la web per finalitzada.<br>2. Utilitzar una checklist legal per assegurar que es compleixen tots els requisits. |
+
+### 6.2 Anàlisi dels riscos
+
+Aquests dos riscos són els més importants perquè afecten directament parts clau del projecte: la infraestructura i la web final. Si fallen, poden bloquejar el projecte o retardar-lo. Per això s’han definit mesures concretes per reduir el seu impacte.
+
 ---
 
 ## 7. Conclusió de la tasca =
+
+En aquesta tasca hem après que planificar un projecte és tan important com fer-lo. No es tracta només de fer les tasques, sinó d’organitzar-les correctament, entendre les dependències i preveure possibles problemes.
+
+El diagrama de Gantt ens ha ajudat a visualitzar el temps del projecte, veure quines tasques es poden fer en paral·lel i identificar punts crítics.
+
+També hem entès la importància de repartir bé el treball i coordinar-nos com a equip per evitar colls d’ampolla.
+
+En general, considerem que la planificació és realista, tot i que sempre poden aparèixer imprevistos que obliguin a adaptar els temps.
