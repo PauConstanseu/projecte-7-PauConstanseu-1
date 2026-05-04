@@ -58,7 +58,7 @@ Abans de definir una proposta competitiva, és imprescindible analitzar el merca
 
 A continuació us mostrem un model d’organigrama per a una empresa de serveis informàtics com és el cas de FooLogístic S.A:
 
-bash
+```bash
 
 @startuml
 title Organigrama empresa serveis informàtics
@@ -80,7 +80,7 @@ title Organigrama empresa serveis informàtics
 
 @enduml
 
-
+```
 
 
 Aquest organigrama l'hem volgut representar com una estructura funcional típica en empreses del sector de distribució alimentària.
