@@ -7,11 +7,17 @@
 ## 1. Índex:
 
 **1/** Índex.
+
 **2/** Fase 1: Anàlisi real del projecte.
+
 **3/** Fase 2: Estimació d’esforç amb criteri.
+
 **4/** Fase 3: Assignació de recursos.
+
 **5/** Fase 4: Construcció del diagrama de Gantt.
+
 **6/** Fase 5: Pla de contingència.
+
 **7/** Conclusió de la tasca.
 
 ---
