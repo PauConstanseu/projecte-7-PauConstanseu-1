@@ -1,6 +1,7 @@
 # 📄 T01 – Coneixent la competència i el sector
 
 **Autors:** Pol Serrano Aromí i Pau Constanseu Ros
+
 **Data:** 8/04/2026
 
 ## 📌 Introducció
