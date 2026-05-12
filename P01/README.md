@@ -218,9 +218,9 @@ Us deixem els enllaços als guions i vídeos sobre l'integració de la seguretat
 
 Aquí us adjutem el enllaç de la pàgina web corporativa d'en Pau Constanseu i en Pol Serrano: [Aqui](https://classessmx2n.github.io/web-projecte7-PauConstanseu/). Seguidament us adjuntem també imatges de la pàgina.
 
-![foto 1 web](/P01/img/web1.png)
-![foto 2 web](/P01/img/web2.png)
-![foto 3 web](/P01/img/web3.png)
+![foto 1 web](/P01/img/1.png)
+![foto 2 web](/P01/img/2.png)
+![foto 3 web](/P01/img/3.png)
 
 Aquesta pàgina web va ser la definitiva, ja que vam volguer fusionar les dues pàgines webs individuals, ja que consideravem que ambdues webs tenien coses dolentes i bones, i descarta una web estariem descartant coses bones de l'altre, aqui us compartim les altres pàgines individuals:
 
